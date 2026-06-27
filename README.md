@@ -46,9 +46,15 @@ print('Hello')
 |기본 자료형(Primitive Data Type)|직접 자료를 표현하는 자료형|숫자형(Number),논리형(Logical)|  
 |컬렉션 자료형(Collection Data Type)|다수의 데이터를 효과적으로 처리할 수 있는 자료형|문자열형(String),리스트형(List), 튜플형(Tuple), 딕셔너리형(Dictionary), 세트형(Set)|
 
-#### 기본 자료형(Primitive Data Type)
+#### (3) 기본 자료형(Primitive Data Type)
 - 기본 자료형은 직접 자료를 표현하는 자료형
 - 기본 자료형에는 숫자형, 논리형이 있음
 
+|유형|설명|  
+|숫자형(Number)| - 숫자를 저장하고자 할 때 사용하는 자료형 - 정수형(int), 실수형(float)이 있음|  
+|논리형(Logical;Boolean)| - 변수의 참, 거짓을 나타낼 때 사용하는 자료형 - True(참), False(거짓)를 저장|
 
+```
+
+```
 
