@@ -42,8 +42,8 @@ print('Hello')
 - 자료형은 프로그래밍 언어에서 실숫값, 정숫값과 같은 여러 종류의 데이터를 식별하는 형태
 
 #### (2) 자료형 유형 
-|유형|설명|세부유형|
-|기본 자료형(Primitive Data Type)|직접 자료를 표현하는 자료형|숫자형(Number),논리형(Logical)|
+|유형|설명|세부유형|  
+|기본 자료형(Primitive Data Type)|직접 자료를 표현하는 자료형|숫자형(Number),논리형(Logical)|  
 |컬렉션 자료형(Collection Data Type)|다수의 데이터를 효과적으로 처리할 수 있는 자료형|문자열형(String),리스트형(List), 튜플형(Tuple), 딕셔너리형(Dictionary), 세트형(Set)|
 
 #### 기본 자료형(Primitive Data Type)
